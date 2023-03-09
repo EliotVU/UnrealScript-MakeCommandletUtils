@@ -1,0 +1,1 @@
+This folder must reside in the root of your game for instance C:\\UT2004\\ExampleProject
