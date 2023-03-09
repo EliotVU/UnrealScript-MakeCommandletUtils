@@ -28,3 +28,7 @@ ucc.exe EditPackagesCommandlet 0 %1%
 ucc.exe DumpIntCommandlet %1%.u
 pause
 ```
+
+## Derivative works
+
+- Killing Floor https://github.com/InsultingPros/KFCmdlet
