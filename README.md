@@ -6,12 +6,13 @@ Originally published at https://wiki.beyondunreal.com/User:Eliot/EditPackagesCom
 
 ## Building
 
-1. Extract this repository in your game's root for example `C:\YourGameRoot\MakeCommmandletUtils`
+1. Extract this repository in your game's root, for example `C:\YourGameRoot\MakeCommmandletUtils`
 2. Run the make.bat file `C:\YourGameRoot\MakeCommandletUtils\make.bat`
 
 ## Usage
 
-Ensure you have the compiled form of MakeCommandletUtils before runnning the batch file, e.g. `C:\YourGameRoot\System\MakeCommandletUtils.u`
+Ensure that you have the compiled form of MakeCommandletUtils before runnning the batch file, e.g. `C:\YourGameRoot\System\MakeCommandletUtils.u`
+
 In a batch file i.e. `make.bat`, for example `C:\YourGameRoot\YourProjectName\make.bat`
 
 ```bat
